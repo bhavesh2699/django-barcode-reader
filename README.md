@@ -63,10 +63,11 @@ How to Create an Online Barcode Reader in Python
 
 Blog
 ----
-Coming soon...
+[Reading Barcode from Scanned Documents][6]
 
 [1]:https://www.djangoproject.com/download/
 [2]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
 [3]:http://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx
 [4]:https://github.com/dynamsoftsamples/dwt-django-file-upload#basic-steps
 [5]:https://github.com/Dynamsoft/Dynamsoft-Barcode-Reader/tree/master/samples/Python
+[6]:http://www.codepool.biz/read-barcode-from-documents.html
