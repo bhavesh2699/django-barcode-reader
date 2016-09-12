@@ -13,7 +13,7 @@ How to Create an Online Barcode Reader in Python
 2. Create a simple Python Barcode Reader with the [sample code][5].
 3. Copy Python Barcode Reader to ``{Django Project Root}\dwtupload``.
 
-    ![image](http://www.codepool.biz/wp-content/uploads/2015/07/copy_python_barcode.png)
+    ![copy_python_barcode](http://www.codepool.biz/wp-content/uploads/2015/07/copy_python_barcode.png)
 4. Create a Python module `dbr.py`.
 
     ```Python
@@ -58,8 +58,8 @@ How to Create an Online Barcode Reader in Python
 5. Import the module to `views.py`.
 6. Detect the uploaded Barcode image files and return results to Web client.
 
-    ![image](http://www.codepool.biz/wp-content/uploads/2015/07/load_multi_barcode.png)
-    ![image](http://www.codepool.biz/wp-content/uploads/2015/07/barcode_results.png)
+    ![load_multi_barcode](http://www.codepool.biz/wp-content/uploads/2015/07/load_multi_barcode.png)
+    ![barcode_results](http://www.codepool.biz/wp-content/uploads/2015/07/barcode_results.png)
 
 Blog
 ----
